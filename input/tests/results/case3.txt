@@ -1,0 +1,100 @@
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case3
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+08:50:29.853 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Unable translate library case3
+elapsed: 0.124 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+09:17:45.618 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Unable translate library case3
+elapsed: 0.04 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:02:35.367 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Unable translate library case3
+elapsed: 0.041 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:02:43.374 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case3 failed with the following message: Syntax error at where
+elapsed: 0.176 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:05:08.668 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case3 failed with the following message: Syntax error at where
+elapsed: 0.165 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:06:30.195 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case3 failed with the following message: Syntax error at where
+elapsed: 0.158 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:08:46.265 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case3 failed with the following message: Syntax error at where
+elapsed: 0.155 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+10:18:05.518 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case3 failed with the following message: Syntax error at where
+elapsed: 0.152 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+No data found at /Users/wvw/git/fhir/cql-test/input/tests. Evaluation may fail if data is required.
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Prior transplant=[]
+ClaimFromPartA=[]
+Medicare Covered Transplant=[]
+PartBCoversImmunoTherapy=[]
+PartB_ESRD_CoversImmunoTherapy=[]
+
+
+Evaluation logs:
+10:26:08.037 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+10:26:08.201 [pool-2-thread-1] INFO  o.o.c.c.e.engine.retrieve.NoOpRetrieveProvider - Attempted retrieve of Procedure. Returning empty set.
+10:26:08.201 [pool-2-thread-1] INFO  o.o.c.c.e.engine.retrieve.NoOpRetrieveProvider - Attempted retrieve of Claim. Returning empty set.
+10:26:08.201 [pool-2-thread-1] INFO  o.o.c.c.e.engine.retrieve.NoOpRetrieveProvider - Attempted retrieve of Procedure. Returning empty set.
+10:26:08.201 [pool-2-thread-1] INFO  o.o.c.c.e.engine.retrieve.NoOpRetrieveProvider - Attempted retrieve of Coverage. Returning empty set.
+10:26:08.201 [pool-2-thread-1] INFO  o.o.c.c.e.engine.retrieve.NoOpRetrieveProvider - Attempted retrieve of Coverage. Returning empty set.
+elapsed: 0.166 seconds
+

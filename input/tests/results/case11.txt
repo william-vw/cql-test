@@ -1,0 +1,128 @@
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[MedicationRequest(id=teriparatide)]
+
+
+Evaluation logs:
+08:51:48.074 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.179 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[]
+
+
+Evaluation logs:
+08:52:15.580 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.169 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[MedicationRequest(id=teriparatide)]
+
+
+Evaluation logs:
+08:52:23.791 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.173 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[]
+
+
+Evaluation logs:
+08:52:29.231 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.178 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[]
+
+
+Evaluation logs:
+08:55:37.686 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.177 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[]
+
+
+Evaluation logs:
+08:56:09.284 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.202 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[]
+
+
+Evaluation logs:
+08:57:22.530 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.186 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case11
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+Patient=Patient(id=example)
+Female Patient=true
+Practitioner=Reference
+Osteoporosis Condition=[Condition(id=osteoporosis)]
+Fracture due to Osteoporosis=[Condition(id=fracture)]
+Teriparatide Request=[MedicationRequest(id=teriparatide)]
+
+
+Evaluation logs:
+08:57:30.654 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+elapsed: 0.202 seconds
+

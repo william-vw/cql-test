@@ -1,0 +1,37 @@
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case1
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+08:46:49.759 [pool-2-thread-1] INFO  ca.uhn.fhir.util.VersionUtil - HAPI FHIR version 6.0.1 - Rev 2a70df1a11
+08:46:49.762 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+08:46:49.958 [pool-2-thread-1] INFO  ca.uhn.fhir.util.XmlUtil - Unable to determine StAX implementation: java.xml/META-INF/MANIFEST.MF not found
+08:46:50.086 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+08:46:50.597 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+08:46:50.642 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+08:46:50.734 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+08:46:50.833 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case1 failed with the following message: Member active not found for type Condition.
+elapsed: 1.722 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case1
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+08:48:16.308 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case1 failed with the following message: Member active not found for type Condition.
+elapsed: 0.177 seconds
+
+Executing CQL...
+CQL path: /Users/wvw/git/fhir/cql-test/input/cql
+Data path: /Users/wvw/git/fhir/cql-test/input/tests/case1
+Terminology path: /Users/wvw/git/fhir/cql-test/input/vocabulary/valueset
+
+Evaluation logs:
+08:48:43.184 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+Translation of library case1 failed with the following message: Member active not found for type Condition.
+elapsed: 0.178 seconds
+
